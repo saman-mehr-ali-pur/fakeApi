@@ -1,0 +1,27 @@
+{
+  {
+
+    "title": "زشک پولو",
+    "price": "120000",
+    "descption":"یه چیزی",
+
+    "comments": [
+      {
+        "username":"saman"
+        "comment" : "بسیار عالی"
+      },
+      {
+        "username":"saman"
+        "comment" : "بسیار عالی"
+      },
+      {
+        "username":"saman"
+        "comment" : "بسیار عالی"
+      },
+
+    ]
+
+  }
+
+
+}
